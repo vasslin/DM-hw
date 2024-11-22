@@ -1,6 +1,0 @@
-digraph G {rankdir=BT
-edge [arrowhead=none];
-c -> d;
-b -> c;
-a -> b;
-}
